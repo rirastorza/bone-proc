@@ -5,11 +5,11 @@ En este tutorial se comenta una manera de construir modelos para resolver con el
 
 Está dividido en tres partes:
 
-1. [Preprocesamiento de imágenes, decimación y corrección de malla, y finalmente construcción del archivo .stl](https://github.com/gmg-utn/bone-proc/blob/main/filtrado/funciones_filtrado.ipynb). Hay unos videos explicativos donde se utiliza 3DSlicer y Meshlab.
-2. [Construcción de malla con Gmsh](https://github.com/gmg-utn/bone-proc/blob/main/malla_mef/generacion_malla.ipynb).
+1. [Preprocesamiento de imágenes, decimación y corrección de malla, y finalmente construcción del archivo .stl](https://github.com/rirastorza/bone-proc/blob/main/filtrado/funciones_filtrado.ipynb). Hay unos videos explicativos donde se utiliza 3DSlicer y Meshlab.
+2. [Construcción de malla con Gmsh](https://github.com/rirastorza/bone-proc/blob/main/malla_mef/generacion_malla.ipynb).
 3. Resolución con MEF utilizando FEniCS.
 
-Los scripts completos están en la carpeta [scripts](https://github.com/gmg-utn/bone-proc/tree/main/scripts).
+Los scripts completos están en la carpeta [scripts](https://github.com/rirastorza/bone-proc/tree/main/scripts).
 
 ### ¿Cómo usar?
 
